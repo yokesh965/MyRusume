@@ -1162,3 +1162,18 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+/*--------------------------------------------------------------
+# Download CV
+--------------------------------------------------------------*/
+.cv-button button[type="button"] {
+  background: #0563bb;
+  border: 0;
+  padding: 10px 35px;
+  color: #fff;
+  border-radius: 50px;
+  outline-style: none;
+}
+.cv-button button:hover {
+  background-color: #1575cf;
+}
